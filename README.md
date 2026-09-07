@@ -2,7 +2,7 @@
 
 A simple, end-to-end notebook that reads your CSV of vibration statistics and trains a
 machine learning model to predict the bearing fault type.
-
+https://www.kaggle.com/datasets/brjapon/cwru-bearing-datasets?resource=download
 ## What's in this project
 
 ```
